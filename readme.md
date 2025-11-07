@@ -41,6 +41,16 @@ Just extract and double-click `run.bat`. No installation needed. Default model i
 Just extract and double-click `install.bat`. No installation needed. But it will just download the model.
 
 ----------------------------------------------------------------------------------------------
+☕ Buy Me a Coffee
+
+Enjoying Fooocus Online?
+
+If you want to support the hosting & development, you can donate here:
+
+[PayPal](https://www.paypal.com/paypalme/AliBakhtiari2)
+
+Your support keeps this running ❤️
+
 
 ### 🔹 Option 3: Clone & Install Locally
 
