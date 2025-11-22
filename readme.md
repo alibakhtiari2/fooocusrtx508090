@@ -7,6 +7,10 @@ My favorite setup is here:
 
 A full ready-to-run ComfyUI pack with models included — no installation, no missing files, just unzip and create amazing images.
 
+Make sure you have at least 12 GB VRAM.
+This package comes with various model like text to image - image to image - image to video.
+Also you can add or remove the models.
+
 ---------------------------------------------------------------------------
 
 # ⚡ Fooocus RTX 50-Series Compatible (Portable Version)
