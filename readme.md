@@ -1,18 +1,3 @@
-🌟 Great News for RTX 50-Series Users!
-This Fooocus pack works perfectly on RTX 50 GPUs — but try ComfyUI first! 😄🚀
-
-My favorite setup is here:
-
-👉 https://github.com/alibakhtiari2/ComfyUI-With-Models
-
-A full ready-to-run ComfyUI pack with models included — no installation, no missing files, just unzip and create amazing images.
-
-Make sure you have at least 12 GB VRAM.
-This package comes with various model like text to image - image to image - image to video.
-Also you can add or remove the models.
-
----------------------------------------------------------------------------
-
 # ⚡ Fooocus RTX 50-Series Compatible (Portable Version)
 
 ## 🧠 Hassle-Free Setup for RTX 5080 / 5090 Users
@@ -56,16 +41,6 @@ Just extract and double-click `run.bat`. No installation needed. Default model i
 Just extract and double-click `install.bat`. No installation needed. But it will just download the model.
 
 ----------------------------------------------------------------------------------------------
-☕ Buy Me a Coffee
-
-Enjoying Fooocus Online?
-
-If you want to support the hosting & development, you can donate here:
-
-[PayPal](https://www.paypal.com/paypalme/AliBakhtiari2)
-
-Your support keeps this running ❤️
-
 
 ### 🔹 Option 3: Clone & Install Locally
 
